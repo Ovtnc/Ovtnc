@@ -28,8 +28,11 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ovtnc&show_icons=true&theme=synthwave)
 
 ## Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ovtnc&layout=compact&show_icons=true&theme=synthwave)](https://github.com/Ovtnc)
- <img src = "https://img.icons8.com/color/344/c-programming.png" width ="30" >
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ovtnc&layout=compact&show_icons=true&theme=synthwave)
+<img src = "https://img.icons8.com/color/344/c-programming.png" width ="30" >
  <img src = "https://img.icons8.com/color/344/python--v1.png" width ="25" >
  <img src = "https://img.icons8.com/color/344/javascript--v1.png" width ="30">
+
+](https://github.com/Ovtnc)
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ovtnc&layout=compact&show_icons=true&theme=synthwave)](https://github.com/Ovtnc) 
